@@ -23,7 +23,7 @@ public class Foo {
 		
 		System.out.println(runLambda.doIt(1));
 		System.out.println(runLambda.doIt(1));
-		System.out.println(runLambda.doIt(1));
+		System.out.println(runLambda.doIt(1)); 
 		
 	}
 	
