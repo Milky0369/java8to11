@@ -23,7 +23,7 @@ public class App {
 		Supplier<Greeting> newGreeting= Greeting::new;
 		
 		//
-		Function<String, Greeting> keesunGreeting = new Greeting::new;
+		Function<String, Greeting> keesunGreeting = Greeting::new;
 		
 		Supplier<Greeting> breanNew = Greeting::new;
 	}
