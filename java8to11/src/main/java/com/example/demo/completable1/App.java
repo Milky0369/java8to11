@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 
 public class App {
 
-    // CompletableFuter : 조금 더 비동기 프로그래밍을 가능케 하는 인터페이스스
+    // CompletableFuture : 조금 더 비동기 프로그래밍을 가능케 하는 인터페이스스
     public static void main(String[] args) throws ExecutionException, InterruptedException {
 
         // 그동안 작성해 왔던 패턴
